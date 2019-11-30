@@ -1,0 +1,152 @@
+$date
+	Thu Nov 28 14:52:12 2019
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module t_Serial_Twos_Comp $end
+$var wire 1 ! y $end
+$var reg 1 " Clock $end
+$var reg 8 # data [7:0] $end
+$var reg 1 $ load $end
+$var reg 1 % reset_b $end
+$var reg 1 & shift_control $end
+$var reg 8 ' twos_comp [7:0] $end
+$scope module M0 $end
+$var wire 1 " Clock $end
+$var wire 8 ( data [7:0] $end
+$var wire 1 $ load $end
+$var wire 1 % reset_b $end
+$var wire 1 & shift_control $end
+$var wire 1 ! y $end
+$var wire 1 ) a $end
+$var wire 1 * SO $end
+$var reg 1 + Q $end
+$var reg 8 , SReg [7:0] $end
+$scope module o2 $end
+$var wire 1 + i0 $end
+$var wire 1 * i1 $end
+$var wire 1 ) o $end
+$upscope $end
+$scope module x2 $end
+$var wire 1 * i0 $end
+$var wire 1 + i1 $end
+$var wire 1 ! o $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx ,
+x+
+x*
+x)
+b1010 (
+bx '
+x&
+x%
+x$
+b1010 #
+0"
+x!
+$end
+#2
+0)
+0!
+0*
+0+
+b0 ,
+b0 '
+0%
+#5
+1"
+#6
+1%
+#10
+0"
+#15
+0&
+1"
+#20
+0"
+1$
+#25
+b1010 ,
+1"
+#30
+0"
+0$
+#35
+1"
+#40
+0"
+#45
+1"
+#50
+0"
+1&
+#55
+0&
+1"
+#60
+0"
+#65
+1"
+#70
+0"
+#75
+1"
+#80
+0"
+#85
+1"
+#90
+0"
+#95
+1"
+#100
+0"
+#105
+1"
+#110
+0"
+#115
+1"
+#120
+0"
+#125
+1"
+#130
+0"
+#135
+1"
+#140
+0"
+#145
+1"
+#150
+0"
+#155
+1"
+#160
+0"
+#165
+1"
+#170
+0"
+#175
+1"
+#180
+0"
+#185
+1"
+#190
+0"
+#195
+1"
+#200
+0"
